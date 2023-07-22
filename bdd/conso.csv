@@ -1,0 +1,11 @@
+Code INSEE région,Région,Nature,Date,Heure,Date - Heure,Consommation (MW),Thermique (MW),Nucléaire (MW),Eolien (MW),Solaire (MW),Hydraulique (MW),Pompage (MW),Bioénergies (MW),Ech. physiques (MW),Stockage batterie,Déstockage batterie,Eolien terrestre,Eolien offshore,TCO Thermique (%),TCH Thermique (%),TCO Nucléaire (%),TCH Nucléaire (%),TCO Eolien (%),TCH Eolien (%),TCO Solaire (%),TCH Solaire (%),TCO Hydraulique (%),TCH Hydraulique (%),TCO Bioénergies (%),TCH Bioénergies (%),Column 30
+27,Bourgogne-Franche-Comté,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Normandie,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Bretagne,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Hauts-de-France,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Île-de-France,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,Nouvelle-Aquitaine,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,Auvergne-Rhône-Alpes,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Grand Est,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Occitanie,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,Provence-Alpes-Côte d'Azur,Données définitives,2013-01-01,00:00,2013-01-01T00:00:00+01:00,,,,,,,,,,,,,,,,,,,,,,,,,,
