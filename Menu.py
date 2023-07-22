@@ -8,7 +8,7 @@ import numpy as np
 
 st.set_page_config(page_title='Menu',layout='wide')
 st.sidebar.image('https://i0.wp.com/imprimer-cc.vocaleo.fr/files/2014/11/Fotolia_62378596_Subscription_XXL-ELECTRICITE.jpg?w=2250',caption='Online Analytics')
-
+st.sidebar.write('Auteur : Nawel Harmas et Xioakun Zhi')
 
 def main():
    
