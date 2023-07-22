@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.svm import SVC
+
 
 
 #from Menu import --pour afficher les variable de la page principale
